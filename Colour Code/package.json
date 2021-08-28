@@ -1,0 +1,38 @@
+{
+	"name": "colour-code",
+	"displayName": "Colour Code",
+	"description": "Minimalistic looking based on Material Theme",
+	"icon": "images/icon.png",
+	"version": "2.0.2",
+	"publisher": "Atharv Rastogi",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Colour Code",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Colour Code"
+			}
+		]
+	},
+	"keywords": [
+		"Colour Code",
+		"dark",
+		"material",
+		"theme",
+		"flat"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Atharv714/Colour_code"
+	},
+	"__metadata": {
+		"publisherDisplayName": "Atharv Rastogi"
+	}
+}
